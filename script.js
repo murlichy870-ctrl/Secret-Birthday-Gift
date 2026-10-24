@@ -59,7 +59,7 @@ function playMidnightChime() {}
 })();
 
 /* ─── SHINCHAN PASSCODE VERIFICATION (4 DIGITS) ─── */
-const TARGET_PASSCODE = "2005"; // 4-digit passcode
+const TARGET_PASSCODE = "2006"; // 4-digit passcode
 
 const SHINCHAN_GIFS = {
   ask: "assets/shinchan-birthday.png",
@@ -467,7 +467,7 @@ function closeGiftModal() {
 const LETTER_SECTIONS = [
   {
     id: 'letter-headline-el',
-    text: "Happy birthday to my favourite\nperson! ❤️"
+    text: "Happy birthday to my love janhvi\nperson! ❤️"
   },
   {
     id: 'letter-p1-el',
@@ -475,11 +475,11 @@ const LETTER_SECTIONS = [
   },
   {
     id: 'letter-p2-el',
-    text: "I'm so lucky to have you, and I can't wait to make a million more memories with you. Here's to you, your dreams, and all the happiness you deserve."
+    text: "I'm so lucky to have you, and I am so excited for this day you have fulfill my all dreams for becomung my life partner all the day all the special events we are not together but we celebrate all this very happily because our heart is now one you are my heartbeats my love and I can't wait to make a million more memories with you. Here's to you, your dreams, and all the happiness you deserve."
   },
   {
     id: 'letter-closing-el',
-    text: "Happy birthday, my love. I love you more than you know. 🫶🏻🎂❤️"
+    text: "Happy birthday, my dear wife janhvi. I love you more than you know. 🫶🏻🎂❤️"
   }
 ];
 
